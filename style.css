@@ -3,15 +3,15 @@ html {
   width: 100%;
 }
 
-{body-color: blue;}
-{o1-color: red;}
 
-p {
-  size: 200 px;
-  }
 h1 {
-text-align:center;
-background-color: black;
-border-radius: 20px;
-width: 300px;
+  text-align:center;
+  color: blue;
+  font-family: verdana;
+  font-size: 200%;
+}
+p {
+  color: red;
+  font-family: courier;
+  font-size: 150%;
 }
