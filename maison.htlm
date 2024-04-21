@@ -1,0 +1,16 @@
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>La maison</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+  <o1> <ui> <bold> <li><p style="color:rgb(125,30,40) ;">Vous êtes rentré chez vous et regardez la télévision, vous trouvez une vidéo intéressante. Quels sont les languages de programation en tier S? </bold> </li> </ui></p> </o1>
+    <h1>txt</h1>
+  <iframe width="300" height="300
+     " src="https://www.youtube.com/watch?v=AzLqTgC0E0s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   <p style="color:rgb(125,30,40) ;"><bold> <a href="perdu.html">Dart et Swift</a> </p></bold>
+   <p style="color:rgb(125,30,40) ;"><bold> <a href="perdu.html">Python et C</a> </p></bold>
+   <p style="color:rgb(125,30,40) ;"><bold> <a href="après_maison.html">C et Java script</a> </p></bold>
+  </body>
+</html>
